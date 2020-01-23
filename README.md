@@ -15,4 +15,4 @@ In side the directory worker
 run ```node index ``` to activate the redis server. then
 Inside the directory api run command ```node index ``` to start the server
 
-then go to ```git clone``` the FRONT END
+then go to ```git clone``` the FRONT END ```https://github.com/moekaddour/Entry-Level-Job-Picker-App-Front-End```
